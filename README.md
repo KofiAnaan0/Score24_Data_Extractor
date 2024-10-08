@@ -181,5 +181,45 @@ By default, the script targets [Premier League](https://www.soccer24.com/england
   └── .gitignore
   ```
 
+   - `output/`: Directory where JSON files are saved.
+   - `scraper.py`: Main Python script containing the scraping logic.
+   - `requirements.txt`: Lists all Python dependencies.
+   - `README.md`: Documentation (this file).
+   - `.gitignore`: Specifies files and directories to ignore in Git.
+
+   ### Troubleshooting
+
+   #### Playwright Installation Issues
+   
+   Ensure you have the latest version of Playwright installed and that the browser binaries are correctly set up.
+   
+   ```bash
+   pip install --upgrade playwright
+   playwright install
+   ```
+
+   ### Timeout Errors
+
+   If the script times out while loading pages or elements:
+   
+   - Increase the timeout duration in the script by modifying the timeout parameters.
+   - Ensure a stable internet connection.
+   - Verify that the website's structure hasn't changed, which might require updating the selectors.
+   
+   ### Missing Elements
+   
+   Websites often update their structures, which can break selectors. Inspect the target website to ensure that the selectors in `scraper.py` are still accurate.
+   
+   ### Contributing
+   
+   Contributions are welcome! Please follow these steps:
+   
+   #### Fork the Repository
+   
+   #### Create a Feature Branch
+   
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
 
 
