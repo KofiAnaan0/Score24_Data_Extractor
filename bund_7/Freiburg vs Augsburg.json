@@ -1,0 +1,138 @@
+{
+    "fixture": "Freiburg vs Augsburg",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Augsburg",
+                "Freiburg"
+            ],
+            "match_two": [
+                "Freiburg",
+                "Augsburg"
+            ],
+            "match_three": [
+                "Freiburg",
+                "Augsburg"
+            ],
+            "match_four": [
+                "Augsburg",
+                "Freiburg"
+            ],
+            "match_five": [
+                "Augsburg",
+                "Freiburg"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                1
+            ],
+            "match_two": [
+                2,
+                0
+            ],
+            "match_three": [
+                3,
+                1
+            ],
+            "match_four": [
+                0,
+                4
+            ],
+            "match_five": [
+                1,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                2.1,
+                1.07
+            ],
+            "match_two": [
+                1.09,
+                1.58
+            ],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                10,
+                2
+            ],
+            "match_two": [
+                2,
+                3
+            ],
+            "match_three": [
+                3,
+                7
+            ],
+            "match_four": [
+                5,
+                8
+            ],
+            "match_five": [
+                11,
+                4
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                16,
+                11
+            ],
+            "match_two": [
+                13,
+                17
+            ],
+            "match_three": [
+                14,
+                9
+            ],
+            "match_four": [
+                13,
+                13
+            ],
+            "match_five": [
+                11,
+                8
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                0
+            ],
+            "match_two": [],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [],
+            "match_five": []
+        },
+        "FT_cards": {
+            "match_one": [
+                3,
+                1
+            ],
+            "match_two": [
+                2,
+                2
+            ],
+            "match_three": [
+                3,
+                3
+            ],
+            "match_four": [],
+            "match_five": [
+                1,
+                1
+            ]
+        }
+    }
+}

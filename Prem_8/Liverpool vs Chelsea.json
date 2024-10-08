@@ -1,0 +1,153 @@
+{
+    "fixture": "Liverpool vs Chelsea",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Chelsea",
+                "Liverpool"
+            ],
+            "match_two": [
+                "Liverpool",
+                "Chelsea"
+            ],
+            "match_three": [
+                "Chelsea",
+                "Liverpool"
+            ],
+            "match_four": [
+                "Chelsea",
+                "Liverpool"
+            ],
+            "match_five": [
+                "Liverpool",
+                "Chelsea"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                4,
+                1
+            ],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [
+                0,
+                0
+            ],
+            "match_five": [
+                0,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                2.28,
+                1.77
+            ],
+            "match_two": [
+                2.9,
+                0.54
+            ],
+            "match_three": [
+                1.31,
+                1.23
+            ],
+            "match_four": [
+                2.29,
+                0.38
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                6,
+                5
+            ],
+            "match_two": [
+                8,
+                1
+            ],
+            "match_three": [
+                4,
+                4
+            ],
+            "match_four": [
+                3,
+                5
+            ],
+            "match_five": [
+                5,
+                5
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                14,
+                21
+            ],
+            "match_two": [
+                15,
+                16
+            ],
+            "match_three": [
+                5,
+                13
+            ],
+            "match_four": [
+                6,
+                17
+            ],
+            "match_five": [
+                16,
+                9
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                4
+            ],
+            "match_three": [
+                2,
+                1
+            ],
+            "match_four": [],
+            "match_five": [
+                1,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                5
+            ],
+            "match_two": [
+                2,
+                4
+            ],
+            "match_three": [
+                3,
+                4
+            ],
+            "match_four": [
+                1,
+                4
+            ],
+            "match_five": [
+                3,
+                1
+            ]
+        }
+    }
+}

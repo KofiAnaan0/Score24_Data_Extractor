@@ -1,0 +1,38 @@
+{
+    "fixture": "Dortmund vs St. Pauli",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "St. Pauli",
+                "Dortmund"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": []
+        },
+        "corners": {
+            "match_one": [
+                4,
+                5
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                9,
+                8
+            ]
+        },
+        "HT_cards": {
+            "match_one": []
+        },
+        "FT_cards": {
+            "match_one": []
+        }
+    }
+}

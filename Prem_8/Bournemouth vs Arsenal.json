@@ -1,0 +1,150 @@
+{
+    "fixture": "Bournemouth vs Arsenal",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Arsenal (Eng)",
+                "Bournemouth (Eng)"
+            ],
+            "match_two": [
+                "Arsenal",
+                "Bournemouth"
+            ],
+            "match_three": [
+                "Bournemouth",
+                "Arsenal"
+            ],
+            "match_four": [
+                "Arsenal",
+                "Bournemouth"
+            ],
+            "match_five": [
+                "Bournemouth",
+                "Arsenal"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                1
+            ],
+            "match_two": [
+                3,
+                0
+            ],
+            "match_three": [
+                0,
+                4
+            ],
+            "match_four": [
+                3,
+                2
+            ],
+            "match_five": [
+                0,
+                3
+            ]
+        },
+        "x_goals": {
+            "match_one": [],
+            "match_two": [
+                3.45,
+                0.4
+            ],
+            "match_three": [
+                0.58,
+                3.16
+            ],
+            "match_four": [
+                2.77,
+                1.45
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                3,
+                2
+            ],
+            "match_two": [
+                6,
+                1
+            ],
+            "match_three": [
+                6,
+                6
+            ],
+            "match_four": [
+                17,
+                1
+            ],
+            "match_five": [
+                3,
+                4
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                13,
+                20
+            ],
+            "match_two": [
+                16,
+                12
+            ],
+            "match_three": [
+                11,
+                10
+            ],
+            "match_four": [
+                6,
+                8
+            ],
+            "match_five": [
+                12,
+                10
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [],
+            "match_five": [
+                1,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [
+                2,
+                3
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                0,
+                2
+            ],
+            "match_five": [
+                2,
+                1
+            ]
+        }
+    }
+}

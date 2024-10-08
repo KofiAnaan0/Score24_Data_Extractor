@@ -1,0 +1,32 @@
+{
+    "fixture": "Holstein Kiel vs Union Berlin",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Union Berlin (Ger)",
+                "Holstein Kiel (Ger)"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": []
+        },
+        "corners": {
+            "match_one": []
+        },
+        "fouls": {
+            "match_one": []
+        },
+        "HT_cards": {
+            "match_one": []
+        },
+        "FT_cards": {
+            "match_one": []
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "fixture": "Fulham vs Aston Villa",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Fulham",
+                "Aston Villa"
+            ],
+            "match_two": [
+                "Aston Villa",
+                "Fulham"
+            ],
+            "match_three": [
+                "Fulham (Eng)",
+                "Aston Villa (Eng)"
+            ],
+            "match_four": [
+                "Aston Villa",
+                "Fulham"
+            ],
+            "match_five": [
+                "Fulham",
+                "Aston Villa"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [
+                3,
+                1
+            ],
+            "match_three": [
+                0,
+                2
+            ],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                3,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.26,
+                1.66
+            ],
+            "match_two": [
+                3.48,
+                0.7
+            ],
+            "match_three": [],
+            "match_four": [
+                1.04,
+                0.11
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                4,
+                4
+            ],
+            "match_two": [
+                2,
+                2
+            ],
+            "match_three": [
+                3,
+                1
+            ],
+            "match_four": [
+                8,
+                2
+            ],
+            "match_five": [
+                9,
+                7
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                11,
+                6
+            ],
+            "match_two": [
+                4,
+                17
+            ],
+            "match_three": [
+                17,
+                14
+            ],
+            "match_four": [
+                6,
+                18
+            ],
+            "match_five": [
+                11,
+                11
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [],
+            "match_three": [
+                2,
+                1
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": []
+        },
+        "FT_cards": {
+            "match_one": [
+                5,
+                2
+            ],
+            "match_two": [
+                2,
+                5
+            ],
+            "match_three": [
+                2,
+                2
+            ],
+            "match_four": [
+                3,
+                2
+            ],
+            "match_five": [
+                0,
+                2
+            ]
+        }
+    }
+}

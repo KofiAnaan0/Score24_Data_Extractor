@@ -1,0 +1,32 @@
+{
+    "fixture": "Ipswich vs Everton",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Everton",
+                "Ipswich"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": []
+        },
+        "corners": {
+            "match_one": []
+        },
+        "fouls": {
+            "match_one": []
+        },
+        "HT_cards": {
+            "match_one": []
+        },
+        "FT_cards": {
+            "match_one": []
+        }
+    }
+}

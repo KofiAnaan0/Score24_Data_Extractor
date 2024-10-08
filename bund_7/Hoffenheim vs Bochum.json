@@ -1,0 +1,147 @@
+{
+    "fixture": "Hoffenheim vs Bochum",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Bochum",
+                "Hoffenheim"
+            ],
+            "match_two": [
+                "Hoffenheim",
+                "Bochum"
+            ],
+            "match_three": [
+                "Bochum",
+                "Hoffenheim"
+            ],
+            "match_four": [
+                "Hoffenheim",
+                "Bochum"
+            ],
+            "match_five": [
+                "Hoffenheim",
+                "Bochum"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                3,
+                2
+            ],
+            "match_two": [
+                3,
+                1
+            ],
+            "match_three": [
+                5,
+                2
+            ],
+            "match_four": [
+                3,
+                2
+            ],
+            "match_five": [
+                1,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                3.92,
+                2.18
+            ],
+            "match_two": [
+                1.99,
+                1.57
+            ],
+            "match_three": [
+                0.0,
+                0.0
+            ],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                10,
+                4
+            ],
+            "match_two": [
+                4,
+                5
+            ],
+            "match_three": [
+                6,
+                6
+            ],
+            "match_four": [
+                8,
+                2
+            ],
+            "match_five": [
+                5,
+                6
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                13,
+                10
+            ],
+            "match_two": [
+                18,
+                11
+            ],
+            "match_three": [
+                13,
+                15
+            ],
+            "match_four": [
+                13,
+                10
+            ],
+            "match_five": [
+                9,
+                11
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                1,
+                0
+            ],
+            "match_three": [],
+            "match_four": [],
+            "match_five": [
+                1,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                3,
+                2
+            ],
+            "match_three": [
+                2,
+                3
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                3,
+                2
+            ]
+        }
+    }
+}

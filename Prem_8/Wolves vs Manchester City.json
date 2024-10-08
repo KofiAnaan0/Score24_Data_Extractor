@@ -1,0 +1,147 @@
+{
+    "fixture": "Wolves vs Manchester City",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Manchester City",
+                "Wolves"
+            ],
+            "match_two": [
+                "Wolves",
+                "Manchester City"
+            ],
+            "match_three": [
+                "Manchester City",
+                "Wolves"
+            ],
+            "match_four": [
+                "Wolves",
+                "Manchester City"
+            ],
+            "match_five": [
+                "Wolves",
+                "Manchester City"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                5,
+                1
+            ],
+            "match_two": [
+                2,
+                1
+            ],
+            "match_three": [
+                3,
+                0
+            ],
+            "match_four": [
+                0,
+                3
+            ],
+            "match_five": [
+                1,
+                5
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                3.03,
+                0.37
+            ],
+            "match_two": [
+                0.39,
+                0.77
+            ],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                6,
+                0
+            ],
+            "match_two": [
+                0,
+                6
+            ],
+            "match_three": [
+                5,
+                7
+            ],
+            "match_four": [
+                5,
+                7
+            ],
+            "match_five": [
+                6,
+                2
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                4,
+                17
+            ],
+            "match_two": [
+                18,
+                12
+            ],
+            "match_three": [
+                10,
+                10
+            ],
+            "match_four": [
+                7,
+                9
+            ],
+            "match_five": [
+                2,
+                11
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                2
+            ],
+            "match_two": [
+                2,
+                1
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": []
+        },
+        "FT_cards": {
+            "match_one": [
+                0,
+                4
+            ],
+            "match_two": [
+                6,
+                5
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                0,
+                1
+            ]
+        }
+    }
+}

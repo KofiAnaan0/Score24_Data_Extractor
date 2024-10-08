@@ -1,0 +1,150 @@
+{
+    "fixture": "Newcastle vs Brighton",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Newcastle",
+                "Brighton"
+            ],
+            "match_two": [
+                "Brighton",
+                "Newcastle"
+            ],
+            "match_three": [
+                "Brighton (Eng)",
+                "Newcastle (Eng)"
+            ],
+            "match_four": [
+                "Newcastle",
+                "Brighton"
+            ],
+            "match_five": [
+                "Brighton",
+                "Newcastle"
+            ]
+        },
+        "goals": {
+            "match_one": [],
+            "match_two": [
+                3,
+                1
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [
+                4,
+                1
+            ],
+            "match_five": [
+                0,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                2.21,
+                1.5
+            ],
+            "match_two": [
+                1.38,
+                1.32
+            ],
+            "match_three": [],
+            "match_four": [
+                2.99,
+                0.53
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                8,
+                4
+            ],
+            "match_two": [
+                5,
+                3
+            ],
+            "match_three": [
+                7,
+                3
+            ],
+            "match_four": [
+                6,
+                1
+            ],
+            "match_five": [
+                7,
+                3
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                9,
+                16
+            ],
+            "match_two": [
+                14,
+                17
+            ],
+            "match_three": [
+                15,
+                10
+            ],
+            "match_four": [
+                17,
+                16
+            ],
+            "match_five": [
+                8,
+                6
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                0,
+                2
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                3,
+                4
+            ],
+            "match_two": [
+                4,
+                4
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [
+                2,
+                4
+            ],
+            "match_five": [
+                2,
+                3
+            ]
+        }
+    }
+}

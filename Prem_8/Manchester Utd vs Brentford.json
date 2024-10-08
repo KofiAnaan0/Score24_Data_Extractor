@@ -1,0 +1,150 @@
+{
+    "fixture": "Manchester Utd vs Brentford",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Brentford",
+                "Manchester Utd"
+            ],
+            "match_two": [
+                "Manchester Utd",
+                "Brentford"
+            ],
+            "match_three": [
+                "Manchester Utd",
+                "Brentford"
+            ],
+            "match_four": [
+                "Brentford",
+                "Manchester Utd"
+            ],
+            "match_five": [
+                "Manchester Utd",
+                "Brentford"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                2,
+                1
+            ],
+            "match_three": [
+                1,
+                0
+            ],
+            "match_four": [
+                4,
+                0
+            ],
+            "match_five": [
+                3,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                2.67,
+                0.5
+            ],
+            "match_two": [
+                1.16,
+                0.97
+            ],
+            "match_three": [
+                1.31,
+                0.77
+            ],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                14,
+                4
+            ],
+            "match_two": [
+                7,
+                5
+            ],
+            "match_three": [
+                12,
+                3
+            ],
+            "match_four": [
+                8,
+                2
+            ],
+            "match_five": [
+                3,
+                8
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                7,
+                14
+            ],
+            "match_two": [
+                10,
+                17
+            ],
+            "match_three": [
+                8,
+                13
+            ],
+            "match_four": [
+                6,
+                15
+            ],
+            "match_five": [
+                4,
+                6
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                2,
+                0
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": []
+        },
+        "FT_cards": {
+            "match_one": [
+                3,
+                2
+            ],
+            "match_two": [
+                0,
+                5
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                0,
+                4
+            ],
+            "match_five": [
+                1,
+                0
+            ]
+        }
+    }
+}

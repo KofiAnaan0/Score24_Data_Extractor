@@ -1,0 +1,150 @@
+{
+    "fixture": "Mainz vs RB Leipzig",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "RB Leipzig",
+                "Mainz"
+            ],
+            "match_two": [
+                "Mainz",
+                "RB Leipzig"
+            ],
+            "match_three": [
+                "RB Leipzig",
+                "Mainz"
+            ],
+            "match_four": [
+                "Mainz",
+                "RB Leipzig"
+            ],
+            "match_five": [
+                "RB Leipzig",
+                "Mainz"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                0,
+                0
+            ],
+            "match_two": [
+                2,
+                0
+            ],
+            "match_three": [
+                0,
+                3
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                4,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                2.94,
+                0.76
+            ],
+            "match_two": [
+                1.53,
+                0.44
+            ],
+            "match_three": [
+                0.68,
+                3.08
+            ],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                12,
+                2
+            ],
+            "match_two": [
+                2,
+                7
+            ],
+            "match_three": [
+                3,
+                4
+            ],
+            "match_four": [
+                4,
+                2
+            ],
+            "match_five": [
+                6,
+                1
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                10,
+                15
+            ],
+            "match_two": [
+                13,
+                9
+            ],
+            "match_three": [
+                13,
+                20
+            ],
+            "match_four": [
+                12,
+                12
+            ],
+            "match_five": [
+                6,
+                10
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                3
+            ],
+            "match_two": [
+                1,
+                0
+            ],
+            "match_three": [
+                1,
+                0
+            ],
+            "match_four": [],
+            "match_five": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                5
+            ],
+            "match_two": [
+                3,
+                1
+            ],
+            "match_three": [
+                3,
+                3
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                0,
+                2
+            ]
+        }
+    }
+}

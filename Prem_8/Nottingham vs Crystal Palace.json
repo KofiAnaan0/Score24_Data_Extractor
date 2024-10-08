@@ -1,0 +1,122 @@
+{
+    "fixture": "Nottingham vs Crystal Palace",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Nottingham",
+                "Crystal Palace"
+            ],
+            "match_two": [
+                "Crystal Palace",
+                "Nottingham"
+            ],
+            "match_three": [
+                "Crystal Palace",
+                "Nottingham"
+            ],
+            "match_four": [
+                "Nottingham",
+                "Crystal Palace"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [
+                1,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.99,
+                1.05
+            ],
+            "match_two": [
+                0.92,
+                1.32
+            ],
+            "match_three": [
+                1.73,
+                0.46
+            ],
+            "match_four": []
+        },
+        "corners": {
+            "match_one": [
+                4,
+                6
+            ],
+            "match_two": [
+                3,
+                7
+            ],
+            "match_three": [
+                5,
+                4
+            ],
+            "match_four": [
+                1,
+                5
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                14,
+                12
+            ],
+            "match_two": [
+                7,
+                12
+            ],
+            "match_three": [
+                9,
+                13
+            ],
+            "match_four": [
+                11,
+                13
+            ]
+        },
+        "HT_cards": {
+            "match_one": [],
+            "match_two": [],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                0,
+                2
+            ],
+            "match_four": [
+                1,
+                4
+            ]
+        }
+    }
+}

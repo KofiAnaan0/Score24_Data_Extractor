@@ -1,0 +1,144 @@
+{
+    "fixture": "Southampton vs Leicester",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Leicester",
+                "Southampton"
+            ],
+            "match_two": [
+                "Southampton",
+                "Leicester"
+            ],
+            "match_three": [
+                "Southampton",
+                "Leicester"
+            ],
+            "match_four": [
+                "Leicester",
+                "Southampton"
+            ],
+            "match_five": [
+                "Leicester",
+                "Southampton"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                5,
+                0
+            ],
+            "match_two": [
+                1,
+                4
+            ],
+            "match_three": [
+                1,
+                0
+            ],
+            "match_four": [
+                1,
+                2
+            ],
+            "match_five": [
+                4,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.76,
+                0.37
+            ],
+            "match_two": [
+                1.49,
+                3.29
+            ],
+            "match_three": [
+                1.52,
+                2.09
+            ],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                1,
+                4
+            ],
+            "match_two": [
+                9,
+                3
+            ],
+            "match_three": [
+                3,
+                4
+            ],
+            "match_four": [
+                2,
+                5
+            ],
+            "match_five": [
+                3,
+                3
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                20,
+                7
+            ],
+            "match_two": [
+                12,
+                12
+            ],
+            "match_three": [
+                12,
+                11
+            ],
+            "match_four": [
+                11,
+                15
+            ],
+            "match_five": [
+                10,
+                5
+            ]
+        },
+        "HT_cards": {
+            "match_one": [],
+            "match_two": [
+                1,
+                1
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [],
+            "match_five": []
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                0
+            ],
+            "match_two": [
+                2,
+                4
+            ],
+            "match_three": [
+                4,
+                2
+            ],
+            "match_four": [
+                2,
+                3
+            ],
+            "match_five": [
+                0,
+                1
+            ]
+        }
+    }
+}

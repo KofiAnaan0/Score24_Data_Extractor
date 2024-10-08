@@ -1,0 +1,94 @@
+{
+    "fixture": "B. Monchengladbach vs Heidenheim",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Heidenheim",
+                "B. Monchengladbach"
+            ],
+            "match_two": [
+                "B. Monchengladbach",
+                "Heidenheim"
+            ],
+            "match_three": [
+                "B. Monchengladbach",
+                "Heidenheim"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                3,
+                1
+            ],
+            "match_three": [
+                2,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                2.21,
+                0.56
+            ],
+            "match_two": [],
+            "match_three": [
+                0.78,
+                0.47
+            ]
+        },
+        "corners": {
+            "match_one": [
+                10,
+                4
+            ],
+            "match_two": [
+                6,
+                4
+            ],
+            "match_three": [
+                6,
+                4
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                16,
+                8
+            ],
+            "match_two": [
+                9,
+                8
+            ],
+            "match_three": [
+                5,
+                18
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [],
+            "match_three": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                3
+            ],
+            "match_two": [],
+            "match_three": [
+                0,
+                3
+            ]
+        }
+    }
+}

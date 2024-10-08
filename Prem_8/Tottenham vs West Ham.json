@@ -1,0 +1,147 @@
+{
+    "fixture": "Tottenham vs West Ham",
+    "head_to_head": {
+        "teams": {
+            "match_one": [
+                "West Ham",
+                "Tottenham"
+            ],
+            "match_two": [
+                "Tottenham",
+                "West Ham"
+            ],
+            "match_three": [
+                "West Ham (Eng)",
+                "Tottenham (Eng)"
+            ],
+            "match_four": [
+                "Tottenham",
+                "West Ham"
+            ],
+            "match_five": [
+                "West Ham",
+                "Tottenham"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                1,
+                2
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.02,
+                0.89
+            ],
+            "match_two": [
+                1.59,
+                1.83
+            ],
+            "match_three": [],
+            "match_four": [
+                1.58,
+                0.51
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                9,
+                5
+            ],
+            "match_two": [
+                8,
+                4
+            ],
+            "match_three": [
+                4,
+                16
+            ],
+            "match_four": [
+                4,
+                7
+            ],
+            "match_five": [
+                3,
+                4
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                13,
+                9
+            ],
+            "match_two": [
+                11,
+                12
+            ],
+            "match_three": [
+                9,
+                10
+            ],
+            "match_four": [
+                16,
+                10
+            ],
+            "match_five": [
+                10,
+                10
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [],
+            "match_three": [],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                0,
+                2
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                4
+            ],
+            "match_two": [
+                3,
+                3
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                2,
+                5
+            ]
+        }
+    }
+}
