@@ -34,7 +34,7 @@ A Python script that automates the extraction of League (Premier League, Ligue 1
 
    ```bash
    git clone https://github.com/yourusername/premier-league-h2h-scraper.git
-   cd premier-league-h2h-scraper
+   cd Score24_Data_Extractor
    ```
    
 2. **Create a Virtual Environment (Optional but Recommended)**
@@ -101,7 +101,7 @@ By default, the script targets [Premier League](https://www.soccer24.com/england
    ## The script will:
 
   - Launch a headless browser.
-  - Navigate to the Premier League fixtures page on Soccer24.
+  - Navigate to the Bundesliga fixtures page on Soccer24.com.
   - Extract match links for the specified round.
   - For each match, navigate to the match details, extract H2H statistics, and save the data as JSON files in the `output/` directory.
   
@@ -208,7 +208,7 @@ By default, the script targets [Premier League](https://www.soccer24.com/england
    
    ### Missing Elements
    
-   Websites often update their structures, which can break selectors. Inspect the target website to ensure that the selectors in `scraper.py` are still accurate.
+   Websites often update their structures, which can break selectors. Inspect the target website to ensure that the selectors in `main.py` are still accurate.
    
    ### Contributing
    
