@@ -62,7 +62,7 @@ A Python script that automates the extraction of League (Premier League, Ligue 1
 
 ### Configure the Base URL & Target Round
 
-By default, the script targets [Premier League](https://www.soccer24.com/england/premier-league/fixtures/) & **"Round 7"**. To change the base url & round:
+By default, the script targets [Premier League](https://www.soccer24.com/england/premier-league/fixtures/) & **"Round 8"**. To change the base url & round:
 
 1. **Open `main.py` in a text editor.**
 
@@ -76,10 +76,10 @@ By default, the script targets [Premier League](https://www.soccer24.com/england
     then
 
     ```python
-    round_7_div = page.query_selector('//div[contains(text(),"Round 7")]')
+    round_7_div = page.query_selector('//div[contains(text(),"Round 8")]')
     ```
 
-3. **Modify the base url & round number as needed.** For example, to target [Bundesliga](https://www.soccer24.com/germany/bundesliga/fixtures/) "Round 8", update the line to:
+3. **Modify the base url & round number as needed.** For example, to target [Bundesliga](https://www.soccer24.com/germany/bundesliga/fixtures/) "Round 9", update the line to:
 
    ```python
     # Base URL
@@ -89,7 +89,7 @@ By default, the script targets [Premier League](https://www.soccer24.com/england
    then
 
     ```python
-    round_7_div = page.query_selector('//div[contains(text(),"Round 8")]')
+    round_7_div = page.query_selector('//div[contains(text(),"Round 9")]')
     ```
 
 4. **Save the changes** and **run the script** to scrape data for the new round.
