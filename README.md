@@ -34,7 +34,7 @@ A Python script that automates the extraction of League (Premier League, Ligue 1
 
    ```bash
    git clone https://github.com/yourusername/premier-league-h2h-scraper.git
-   cd Score24_Data_Extractor_master
+   cd Score24_Data_Extractor-master
    ```
    
 2. **Create a Virtual Environment (Optional but Recommended)**
