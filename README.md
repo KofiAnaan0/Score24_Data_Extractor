@@ -47,7 +47,7 @@ A Python script that automates the extraction of League (Premier League, Ligue 1
 3. **Install Dependencies**
    
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
    
 4. **Install Dependencies**
